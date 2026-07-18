@@ -1,4 +1,29 @@
-## Hi there 👋
+# Hi, I'm Kanuri Bala Bhagya Sri 👋
+
+## 🎓 About Me
+- B.Tech CSE Student
+- Interested in Python, Java and AWS Cloud
+
+## 💻 Skills
+- Python
+- Java
+- SQL
+- DBMS
+- AWS
+- OpenCV
+
+## 🚀 Projects
+- Face Recognition System using Python & OpenCV
+
+## 📜 Certifications
+- AWS Internship
+- Red Hat
+- Oracle Java
+
+## 🌱 Currently Learning
+- Python
+- AWS
+- Full Stack Development
 
 <!--
 **bhagyasrikanuri2005-hash/bhagyasrikanuri2005-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
