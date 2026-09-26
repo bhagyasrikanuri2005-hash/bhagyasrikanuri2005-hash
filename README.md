@@ -78,29 +78,29 @@ I am a Computer Science & Engineering student interested in **Machine Learning, 
 
 ### 🤖 Machine Learning Project
 
-**Machine Learning based AI Application**
+### 🤖 Student Performance Prediction
 
-A practical Machine Learning project focused on applying ML concepts such as data preprocessing, model training and prediction to solve a real-world problem.
+A Machine Learning web application that predicts a student's academic result based on study time and previous period grades.
 
 **Tech Stack:**
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
+`Python` `Flask` `Pandas` `Scikit-learn` `Machine Learning`
 
-🔗 **Live Demo:** [Add your deployed ML project link here](YOUR_ML_LIVE_DEMO_LINK)
+🔗 **Live Demo:** [Student Performance Predictor](https://student-performance-prediction-lajy.onrender.com)
 
-🔗 **Source Code:** [GitHub](YOUR_ML_GITHUB_LINK)
+🔗 **Source Code:** [GitHub](https://github.com/bhagyasrikanuri2005-hash/Student-Performance-Prediction)
 
 ---
 
-### 👁️ Face Recognition System
+### 👁️ Face Recognition Based Attendance System
 
-A Python and OpenCV based face recognition project developed during my AWS Cloud Computing internship.
-
-The system captures face images, trains a recognition model and identifies registered faces using computer vision techniques.
+A Python and OpenCV based real-time face recognition and attendance system.
 
 **Tech Stack:**
 
-`Python` `OpenCV` `Haar Cascade` `LBPH`
+`Python` `OpenCV` `NumPy` `Haar Cascade` `LBPH`
+
+🔗 **Source Code:** [GitHub](https://github.com/bhagyasrikanuri2005-hash/FaceRecognitionProject)
 
 **Key Features:**
 
