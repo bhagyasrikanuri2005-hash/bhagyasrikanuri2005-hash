@@ -149,3 +149,56 @@ LLMs & Generative AI
 AI Applications
    ↓
 AWS Cloud Deployment
+
+---
+
+## 📜 Certifications & Experience
+
+- ☁️ AWS Cloud Computing Internship — APSSDC
+- 🔴 Red Hat Certified System Administrator
+- ☕ Oracle Java Foundations Associate
+- 🐍 Python — Cisco Networking Academy
+- 💻 C — Cisco Networking Academy
+- 🌐 HTML & CSS Certification
+- 🧠 Generative AI with LLMs — Internship / Training
+
+---
+
+## 🎓 Education
+
+### B.Tech — Computer Science & Engineering
+**Aditya College of Engineering and Technology**  
+2023 – 2027  
+**CGPA: 8.35**
+
+### Intermediate
+**Aditya Junior College**  
+2021 – 2023  
+**97%**
+
+### SSC
+**Thompson’s NNT School**  
+2020 – 2021  
+**98%**
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhagyasrikanuri2005-hash&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyasrikanuri2005-hash&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile! ✨
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>
