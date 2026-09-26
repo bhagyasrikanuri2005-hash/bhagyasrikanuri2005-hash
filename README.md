@@ -78,13 +78,21 @@ I am a Computer Science & Engineering student interested in **Machine Learning, 
 
 ### 🤖 Machine Learning Project
 
-### 🤖 Student Performance Prediction
+###  🎓 Student Performance Prediction
 
 A Machine Learning web application that predicts a student's academic result based on study time and previous period grades.
 
 **Tech Stack:**
 
 `Python` `Flask` `Pandas` `Scikit-learn` `Machine Learning`
+
+**Key Features:**
+- 🎓 Student performance prediction
+- 📊 Data preprocessing & feature analysis
+- 🤖 ML model training & prediction
+- 📈 Model performance evaluation
+- 🌐 Interactive Flask web application
+- ⚡ Real-time prediction
 
 🔗 **Live Demo:** [Student Performance Predictor](https://student-performance-prediction-lajy.onrender.com)
 
@@ -99,8 +107,6 @@ A Python and OpenCV based real-time face recognition and attendance system.
 **Tech Stack:**
 
 `Python` `OpenCV` `NumPy` `Haar Cascade` `LBPH`
-
-🔗 **Source Code:** [GitHub](https://github.com/bhagyasrikanuri2005-hash/FaceRecognitionProject)
 
 **Key Features:**
 
