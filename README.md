@@ -116,7 +116,7 @@ A Python and OpenCV based real-time face recognition and attendance system.
 - 👥 Supports multiple registered faces
 - ⚡ Real-time recognition
 
-🔗 **Source Code:** [GitHub](YOUR_FACE_RECOGNITION_GITHUB_LINK)
+🔗 **Source Code:** [GitHub](https://github.com/bhagyasrikanuri2005-hash/FaceRecognitionProject)
 
 ---
 
